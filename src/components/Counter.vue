@@ -4,6 +4,8 @@
 		<p>
 			<a class="button" @click="count +=20">increment</a>
 		</p>
+
+
 	</div>
 </template>
 
